@@ -1,6 +1,6 @@
 {
-  "version": "v20.30.40 (patches: dev.1)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/LaKardo/YouTube-ReVanced-dev/releases/download/1/youtube-dev-revanced-magisk-v20.30.40-all.zip",
+  "version": "v20.26.46 (patches: 5.46.0)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/LaKardo/YouTube-ReVanced-dev/releases/download/2/youtube-dev-revanced-magisk-v20.26.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/LaKardo/YouTube-ReVanced-dev/update/build.md"
 }
